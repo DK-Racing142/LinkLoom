@@ -1,32 +1,22 @@
 [
     {
-        "url": "https://github.com",
-        "text": "GitHub",
-        "icon": "fa-brands fa-github fa-lg"
-    },
-    {
-        "url": "https://medium.com",
-        "text": "Medium",
-        "icon": "fa-brands fa-medium fa-lg"
-    },
-    {
-        "url": "https://youtube.com",
-        "text": "YouTube",
-        "icon": "fa-brands fa-youtube fa-lg"
-    },
-    {
-        "url": "https://instagram.com",
+        "url": "https://www.instagram.com/dk_racing_team142",
         "text": "Instagram",
         "icon": "fa-brands fa-instagram fa-lg"
     },
     {
-        "url": "https://bsky.app",
-        "text": "Bluesky",
-        "icon": "fa-brands fa-bluesky"
+        "url": "https://www.tiktok.com/@dkracing142",
+        "text": "TikTok",
+        "icon": "fa-brands fa-tiktok fa-lg"
     },
     {
-        "url": "https://github.com/nandolawson/LinkLoom",
-        "text": "Download LinkLoom",
-        "icon": "fa-solid fa-download"
+        "url": "https://www.twitch.tv/dk_racing_team_",
+        "text": "Twitch",
+        "icon": "fa-brands fa-twitch fa-lg"
+    },
+    {
+        "url": "https://www.youtube.com/@DK-Racing-Team",
+        "text": "YouTube",
+        "icon": "fa-brands fa-youtube fa-lg"
     }
 ]
